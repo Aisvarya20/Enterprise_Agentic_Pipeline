@@ -1,0 +1,6 @@
+Employee_Name,Team_Email,Quality_Score,Timeline_Status,Warning_9PM_Sent,Breach_10PM_Sent,Checkpoint_9PM,Checkpoint_10PM
+Sita,xxx@gmail.com,8.5,Still task is pending,YES (9:00 PM Trigger),YES (10:00 PM Trigger),NOT COMPLETED,NOT COMPLETED
+Raghav,yyy@gmail.com,9.0,Completed,NO,NO,COMPLETED,COMPLETED
+Vikram,zzz@gmail.com,7.2,Completed at 10 PM,YES (9:00 PM Trigger),NO,NOT COMPLETED,COMPLETED
+Meena,aaa@gmail.com,9.5,Completed,NO,NO,COMPLETED,COMPLETED
+Rooba,bbb@gmail.com,6.8,Still task is pending,YES (9:00 PM Trigger),YES (10:00 PM Trigger),NOT COMPLETED,NOT COMPLETED
